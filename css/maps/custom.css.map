@@ -1,1 +1,0 @@
-{"version":3,"sources":["custom.scss","custom.css"],"names":[],"mappings":"AAAA;EACI,oBAAiB;KAAjB,iBAAiB;EACjB,aAAa;ACCjB","file":"../custom.css","sourcesContent":[".img-fit {\r\n    object-fit: cover;\r\n    height: 370px; \r\n }\r\n",".img-fit {\n  object-fit: cover;\n  height: 370px;\n}\n"]}
